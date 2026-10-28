@@ -1,0 +1,11 @@
+baseURL: "https://hurior-hao.github.io/"
+title: "Know and Explain"
+locale: "zh-CN"
+defaultContentLanguage: "zh"
+hasCJKLanguage: true
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: "你好,欢迎"
+    Content: "记录一切"
